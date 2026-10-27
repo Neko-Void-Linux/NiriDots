@@ -19,7 +19,7 @@ niri
 noctalia V5 or >
 cozette
 pamixer
-pcmanfm
+caja
 xdg-desktop-portal-gnome
 xwayland-satellite
 ```
