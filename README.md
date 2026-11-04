@@ -4,8 +4,10 @@ A Niri build, created for void and neko void, it strikes a balance between comfo
 
 
 # Screenshot
-<img width="1824" height="1024" alt="image" src="https://github.com/user-attachments/assets/986e4694-22bd-4e11-909a-ee5f7262ec4a" />
-<img width="1824" height="1024" alt="image" src="https://github.com/user-attachments/assets/b0048fd1-0f4e-489a-915c-49083f1a9ef2" />
+<img width="1824" height="1024" alt="image" src="https://github.com/user-attachments/assets/2621e036-8edb-421a-ad2a-db50d1cb9ce9" />
+
+<img width="1824" height="1024" alt="image" src="https://github.com/user-attachments/assets/b423e828-2ad4-48ec-8363-4248a99f050c" />
+
 
 
 
