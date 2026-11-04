@@ -78,9 +78,9 @@ xwayland-satellite
 |:-|:-|
 |<kbd>Super</kbd> + <kbd>PgDn</kbd> / <kbd>PgUp</kbd>| Focus Workspace Down / Up
 |<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>PgDn</kbd> / <kbd>PgUp</kbd>| Move Column to Workspace Down / Up
-|<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>U</kbd> / <kbd>I</kbd>| Move Column to Workspace Down / Up
+|<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>U</kbd> / <kbd>O</kbd>| Move Column to Workspace Down / Up
 |<kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>PgDn</kbd> / <kbd>PgUp</kbd>| Move Workspace Down / Up
-|<kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd> / <kbd>I</kbd>| Move Workspace Down / Up
+|<kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd> / <kbd>O</kbd>| Move Workspace Down / Up
 |<kbd>Super</kbd> + <kbd>1-9</kbd>| Switch to Workspace 1-9
 |<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>1-9</kbd>| Move Column to Workspace 1-9
 |<kbd>Super</kbd> + <kbd>Wheel</kbd> ↑ / ↓| Switch Workspace
