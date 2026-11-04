@@ -71,7 +71,7 @@ xwayland-satellite
 | Keys | Action |
 |:-|:-|
 |<kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>←</kbd> / <kbd>→</kbd> / <kbd>↑</kbd> / <kbd>↓</kbd>| Move Column to Monitor
-|<kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>H</kbd> / <kbd>J</kbd> / <kbd>K</kbd> / <kbd>L</kbd>| Move Column to Monitor
+|<kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>J</kbd> / <kbd>L</kbd> / <kbd>K</kbd> / <kbd>I</kbd>| Move Column to Monitor
 
  // Workspace
 | Keys | Action |
