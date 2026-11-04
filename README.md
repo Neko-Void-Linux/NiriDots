@@ -58,8 +58,8 @@ xwayland-satellite
 |:-|:-|
 |<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>←</kbd> / <kbd>→</kbd>| Move Column Left / Right
 |<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>↑</kbd> / <kbd>↓</kbd>| Move Window Up / Down
-|<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>H</kbd> / <kbd>L</kbd>| Move Column Left / Right
-|<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>J</kbd> / <kbd>K</kbd>| Move Window Down / Up
+|<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>J</kbd> / <kbd>L</kbd>| Move Column Left / Right
+|<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>K</kbd> / <kbd>I</kbd>| Move Window Down / Up
 |<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>Home</kbd>| Move Column to First
 |<kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>End</kbd>| Move Column to Last
 |<kbd>Super</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd> / <kbd>→</kbd>| Consume / Expel Window Left / Right
