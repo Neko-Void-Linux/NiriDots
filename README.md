@@ -17,6 +17,7 @@ A Niri build, created for void and neko void, it strikes a balance between comfo
 ```
 foot
 adw-theme or similar
+pixelitos-dark
 dbus
 niri
 noctalia V5 or >
